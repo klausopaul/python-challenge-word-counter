@@ -7,10 +7,10 @@ def cls():
 
 def main():
     """
-    main _summary_
+    main Take a sentence and count how many words, and what the longest word in the sentence is
 
     Returns:
-        _type_: _description_
+        Nothing
     """
     sentence = str(input("Enter a sentence: "))
 
