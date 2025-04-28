@@ -1,1 +1,1 @@
-# python-challenge-word-counter
+This program defines a string, counts how many uppercase and lowercase letters are present, and displays both counts.
